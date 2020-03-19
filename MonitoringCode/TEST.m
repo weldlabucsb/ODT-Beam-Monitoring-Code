@@ -1,4 +1,0 @@
-% A FILE TO TEST HOW WELL THE CITADEL HANDLES THIS BUSINESS
-
-roses = 'red';
-violets = 'blue';
